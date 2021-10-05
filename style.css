@@ -27,7 +27,8 @@ input,textarea{
     padding: 5px; 
 }
 img{
-    width: auto;
+    width: 500px;
+    height: 300;
     border-radius: 4px;
     box-shadow: 10px 10px 5px grey;
 }
