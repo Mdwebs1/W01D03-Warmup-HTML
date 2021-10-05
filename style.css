@@ -1,0 +1,32 @@
+h2{
+    font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 28px;
+  margin-left: 10px;
+}
+.dform{
+    /* background-color: rgb(49, 47, 47); */
+    width: 600px;
+    border: 2px solid;
+    border-radius: 12px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    margin-left: 10px;
+    text-align: center;
+}
+.form-element{
+    margin-left: 10px;
+
+    border-radius: 12px;
+    text-align: center;
+    
+}
+input,textarea{
+    border: 2px solid;
+    border-radius: 4px; 
+    padding: 5px; 
+}
+img{
+    width: auto;
+    border-radius: 4px;
+    box-shadow: 10px 10px 5px grey;
+}
